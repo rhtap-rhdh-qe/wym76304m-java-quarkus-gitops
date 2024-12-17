@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wym76304m-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wym76304m-java-quarkus
